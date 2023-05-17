@@ -1,2 +1,2 @@
-# promo
+# Promo
 Exemplo de página promocional
